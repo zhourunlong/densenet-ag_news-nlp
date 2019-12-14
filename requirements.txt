@@ -1,0 +1,8 @@
+numpy
+scikit-learn
+scipy
+torch
+torchvision
+requests
+tqdm
+lmdb
