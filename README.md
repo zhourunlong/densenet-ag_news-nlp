@@ -1,6 +1,6 @@
 # DenseNet for NLP: Ag_News dataset
 
-No more discriptions. Below is the original model's discription, and I have modified alot on it.
+No more discriptions. Below is the original model's discription, and I have modified alot on the model.
 
 # efficient_densenet_pytorch
 A PyTorch >=1.0 implementation of DenseNets, optimized to save GPU memory.
